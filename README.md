@@ -1,0 +1,1 @@
+This is a short project that entails creating a basic recipe website using only html. This project will demonstrate basic proficiency with the bare fundamentals of html.
